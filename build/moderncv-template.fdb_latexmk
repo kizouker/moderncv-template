@@ -1,0 +1,9 @@
+# Fdb version 4
+["pdflatex"] 0 "./moderncv-template.tex" "build/moderncv-template.pdf" "moderncv-template" 0 -1
+  "./moderncv-template.tex" 0 -1 0 ""
+  "build/moderncv-template.aux" 0 -1 0 "pdflatex"
+  (generated)
+  "build/moderncv-template.aux"
+  "build/moderncv-template.log"
+  "build/moderncv-template.pdf"
+  (rewritten before read)
