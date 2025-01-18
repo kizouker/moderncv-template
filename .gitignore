@@ -1,3 +1,9 @@
 # LaTeX Intermediate Files
 *.synctex
 *.synctex.gz
+#./build/   I'll keep the build directory
+# ignore all generated files from LateX
+./build/*.aux		
+./build/*.fls
+./build/*.fdb_latexmk	
+./build/*.log
